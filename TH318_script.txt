@@ -1,0 +1,280 @@
+edit
+edit interfaces
+edit ge-0/0/0
+set description 002.v1
+up
+edit ge-0/0/1
+set description 114-v1
+up
+edit ge-0/0/2
+set description 006-v1
+up
+edit ge-0/0/3
+set description 116-v1
+up
+edit ge-0/0/4
+set description 006a-v1
+up
+edit ge-0/0/5
+set description 118-v1
+up
+edit ge-0/0/6
+set description 010-v1
+up
+edit ge-0/0/7
+set description 120-v1
+up
+edit ge-0/0/8
+set description 011-v1
+up
+edit ge-0/0/9
+set description 122-v1
+up
+edit ge-0/0/10
+set description 012-v1
+up
+edit ge-0/0/11
+set description 202-v1
+up
+edit ge-0/0/12
+set description 013-v1
+up
+edit ge-0/0/13
+set description 203-v1
+up
+edit ge-0/0/14
+set description 014-v1
+up
+edit ge-0/0/15
+set description 205-v1
+up
+edit ge-0/0/16
+set description 015-v1
+up
+edit ge-0/0/17
+set description 206-v1
+up
+edit ge-0/0/18
+set description 016-v1
+up
+edit ge-0/0/19
+set description 207-v1
+up
+edit ge-0/0/20
+set description 017-v1
+up
+edit ge-0/0/21
+set description 208-v1
+up
+edit ge-0/0/22
+set description 018-v1
+up
+edit ge-0/0/23
+set description 209-v1
+up
+edit ge-0/0/24
+set description 019-v1
+up
+edit ge-0/0/25
+set description 211-v1
+up
+edit ge-0/0/27
+set description 213-v1
+up
+edit ge-0/0/28
+set description 102-v1
+up
+edit ge-0/0/29
+set description 214-v1
+up
+edit ge-0/0/30
+set description 103-v1
+up
+edit ge-0/0/31
+set description 216
+up
+edit ge-0/0/32
+set description 105
+up
+edit ge-0/0/33
+set description 218
+up
+edit ge-0/0/34
+set description 106
+up
+edit ge-0/0/35
+set description 220
+up
+edit ge-0/0/36
+set description 107
+up
+edit ge-0/0/37
+set description 222
+up
+edit ge-0/0/39
+set description 224
+up
+edit ge-0/0/40
+set description 109
+up
+edit ge-0/0/41
+set description 302
+up
+edit ge-0/0/42
+set description 111
+up
+edit ge-0/0/43
+set description 303
+up
+edit ge-0/0/44
+set description 112
+up
+edit ge-0/0/45
+set description 305
+up
+edit ge-0/0/46
+set description 113
+up
+edit ge-0/0/47
+set description 306
+up
+edit ge-1/0/0
+set description 002.v1
+up
+edit ge-1/0/1
+set description 114-v1
+up
+edit ge-1/0/2
+set description 006-v1
+up
+edit ge-1/0/3
+set description 116-v1
+up
+edit ge-1/0/4
+set description 006a-v1
+up
+edit ge-1/0/5
+set description 118-v1
+up
+edit ge-1/0/6
+set description 010-v1
+up
+edit ge-1/0/7
+set description 120-v1
+up
+edit ge-1/0/8
+set description 011-v1
+up
+edit ge-1/0/9
+set description 122-v1
+up
+edit ge-1/0/10
+set description 012-v1
+up
+edit ge-1/0/11
+set description 202-v1
+up
+edit ge-1/0/12
+set description 013-v1
+up
+edit ge-1/0/13
+set description 203-v1
+up
+edit ge-1/0/14
+set description 014-v1
+up
+edit ge-1/0/15
+set description 205-v1
+up
+edit ge-1/0/16
+set description 015-v1
+up
+edit ge-1/0/17
+set description 206-v1
+up
+edit ge-1/0/18
+set description 016-v1
+up
+edit ge-1/0/19
+set description 207-v1
+up
+edit ge-1/0/20
+set description 017-v1
+up
+edit ge-1/0/21
+set description 208-v1
+up
+edit ge-1/0/22
+set description 018-v1
+up
+edit ge-1/0/23
+set description 209-v1
+up
+edit ge-1/0/24
+set description 019-v1
+up
+edit ge-1/0/25
+set description 211-v1
+up
+edit ge-1/0/27
+set description 213-v1
+up
+edit ge-1/0/28
+set description 102-v1
+up
+edit ge-1/0/29
+set description 214-v1
+up
+edit ge-1/0/30
+set description 103-v1
+up
+edit ge-1/0/31
+set description 216
+up
+edit ge-1/0/32
+set description 105
+up
+edit ge-1/0/33
+set description 218
+up
+edit ge-1/0/34
+set description 106
+up
+edit ge-1/0/35
+set description 220
+up
+edit ge-1/0/36
+set description 107
+up
+edit ge-1/0/37
+set description 222
+up
+edit ge-1/0/39
+set description 224
+up
+edit ge-1/0/40
+set description 109
+up
+edit ge-1/0/41
+set description 302
+up
+edit ge-1/0/42
+set description 111
+up
+edit ge-1/0/43
+set description 303
+up
+edit ge-1/0/44
+set description 112
+up
+edit ge-1/0/45
+set description 305
+up
+edit ge-1/0/46
+set description 113
+up
+edit ge-1/0/47
+set description 306
+up
+commit check
+commit and-quit

@@ -1,0 +1,73 @@
+edit
+edit interfaces
+edit ge-0/0/0
+set description D02
+up
+edit ge-0/0/1
+set description D03
+up
+edit ge-0/0/2
+set description D04
+up
+edit ge-0/0/3
+set description D06
+up
+edit ge-0/0/4
+set description D07
+up
+edit ge-0/0/5
+set description D08
+up
+edit ge-0/0/6
+set description D10
+up
+edit ge-0/0/7
+set description D11
+up
+edit ge-0/0/8
+set description D12
+up
+edit ge-0/0/9
+set description D14
+up
+edit ge-0/0/10
+set description D15
+up
+edit ge-0/0/11
+set description V19
+up
+edit ge-0/0/12
+set description V20
+up
+edit ge-0/0/38
+set description Analog-Converter
+up
+edit ge-0/0/39
+set description Cam-1
+up
+edit ge-0/0/40
+set description Cam-4
+up
+edit ge-0/0/41
+set description Cam-3
+up
+edit ge-0/0/42
+set description Cam-2
+up
+edit ge-0/0/43
+set description vis-bth-roof-Cam
+up
+edit ge-0/0/44
+set description sw-roof-Cam
+up
+edit ge-0/0/45
+set description AP-3
+up
+edit ge-0/0/46
+set description AP-2
+up
+edit ge-0/0/47
+set description AP-1
+up
+commit check
+commit and-quit
